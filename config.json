@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/hitman",
+        "prod_uri": "mysql://root:@localhost/hitman",
+        "fb_url": "https://facebook.com/rk4545264",
+        "twitter_url": "https://twitter.com/rajnishkr2014",
+        "github_url": "https://github.com/rajnishhitman",
+        "blog_title": "Hitman",
+        "blog_name": "Hitman Blogger",
+        "tag_line": "Let's explore the world",                
+        "gmail_user": "rk4545264@gmail.com",
+        "gmail_password": "123456",
+        "about_text": "Hi my name is Rajnish Kumar, I am learning website building using flask from CodeWithHarry youtube channel and this is my first website. I choosed flask over django because it gives more control to the developer. After flask i am planing to learn the django. I am in love with backend development.",
+        "no_of_posts": 3,
+        "admin_user": "rajnish",
+        "admin_password": "hitman",
+        "upload_location": "C:\\python setup\\projects\\flask_project\\static\\img"
+    }
+
+}
