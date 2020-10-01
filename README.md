@@ -1,2 +1,2 @@
-# python-flask-blog
-I created this website by the help of CodeWithHarry youtube channel.
+# Python-Flask-Blog
+I Created This Website By The Help Of CodeWithHarry Youtube Channel.
